@@ -1,0 +1,104 @@
+/*
+ * Created with iconvau.lt
+ */
+
+@font-face {
+  font-family: "bisk-icons";
+  src: url("bisk-icons.eot");
+  src: url("bisk-icons.eot?#iefix") format("embedded-opentype"),
+       url("bisk-icons.woff") format("woff"),
+       url("bisk-icons.ttf") format("truetype"),
+       url("bisk-icons.svg#iconvault") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-notepad:before,
+.icon-check-mark:before,
+.icon-pin:before,
+.icon-logo-nec-color:before,
+.icon-cloud:before,
+.icon-bag:before,
+.icon-calendar-day:before,
+.icon-calendar-week:before,
+.icon-notification-red:before,
+.icon-help:before,
+.icon-folder:before,
+.icon-trophy:before,
+.icon-magnifying-glass:before,
+.icon-inbox:before,
+.icon-reply:before,
+.icon-discussion-board:before,
+.icon-grades:before,
+.icon-light-bulb:before,
+.icon-storage:before,
+.icon-cloud-download:before,
+.icon-profile:before,
+.icon-image:before,
+.icon-play-button:before,
+.icon-logo-nec:before,
+.icon-message:before,
+.icon-cloud-upload:before,
+.icon-discussion:before,
+.icon-chat-heart:before,
+.icon-group:before,
+.icon-heart:before,
+.icon-calendar-month:before,
+.icon-flag:before,
+.icon-book-tabs:before,
+.icon-map:before,
+.icon-chat-head:before,
+.icon-group-plus:before,
+.icon-chat:before,
+.icon-subscribe:before {
+  font-family: "bisk-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+.icon-notepad:before { content: "\f100"; }
+.icon-check-mark:before { content: "\f101"; }
+.icon-pin:before { content: "\f102"; }
+.icon-logo-nec-color:before { content: "\f103"; }
+.icon-cloud:before { content: "\f104"; }
+.icon-bag:before { content: "\f105"; }
+.icon-calendar-day:before { content: "\f106"; }
+.icon-calendar-week:before { content: "\f107"; }
+.icon-notification-red:before { content: "\f108"; }
+.icon-help:before { content: "\f109"; }
+.icon-folder:before { content: "\f10a"; }
+.icon-trophy:before { content: "\f10b"; }
+.icon-magnifying-glass:before { content: "\f10c"; }
+.icon-inbox:before { content: "\f10d"; }
+.icon-reply:before { content: "\f10e"; }
+.icon-discussion-board:before { content: "\f10f"; }
+.icon-grades:before { content: "\f110"; }
+.icon-light-bulb:before { content: "\f111"; }
+.icon-storage:before { content: "\f112"; }
+.icon-cloud-download:before { content: "\f113"; }
+.icon-profile:before { content: "\f114"; }
+.icon-image:before { content: "\f115"; }
+.icon-play-button:before { content: "\f116"; }
+.icon-logo-nec:before { content: "\f117"; }
+.icon-message:before { content: "\f118"; }
+.icon-cloud-upload:before { content: "\f119"; }
+.icon-discussion:before { content: "\f11a"; }
+.icon-chat-heart:before { content: "\f11b"; }
+.icon-group:before { content: "\f11c"; }
+.icon-heart:before { content: "\f11d"; }
+.icon-calendar-month:before { content: "\f11e"; }
+.icon-flag:before { content: "\f11f"; }
+.icon-book-tabs:before { content: "\f120"; }
+.icon-map:before { content: "\f121"; }
+.icon-chat-head:before { content: "\f122"; }
+.icon-group-plus:before { content: "\f123"; }
+.icon-chat:before { content: "\f124"; }
+.icon-subscribe:before { content: "\f125"; }

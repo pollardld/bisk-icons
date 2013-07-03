@@ -1,0 +1,53 @@
+{
+  "fonts": [
+    "bisk-icons.ttf",
+    "bisk-icons.woff",
+    "bisk-icons.eot",
+    "bisk-icons.svg"
+  ],
+  "templates": [
+    "index.html",
+    "bisk-icons.css"
+  ],
+  "file_name": "bisk-icons",
+  "glyphs": [
+    "notepad",
+    "check-mark",
+    "pin",
+    "logo-nec-color",
+    "cloud",
+    "bag",
+    "calendar-day",
+    "calendar-week",
+    "notification-red",
+    "help",
+    "folder",
+    "trophy",
+    "magnifying-glass",
+    "inbox",
+    "reply",
+    "discussion-board",
+    "grades",
+    "light-bulb",
+    "storage",
+    "cloud-download",
+    "profile",
+    "image",
+    "play-button",
+    "logo-nec",
+    "message",
+    "cloud-upload",
+    "discussion",
+    "chat-heart",
+    "group",
+    "heart",
+    "calendar-month",
+    "flag",
+    "book-tabs",
+    "map",
+    "chat-head",
+    "group-plus",
+    "chat",
+    "subscribe"
+  ]
+}
